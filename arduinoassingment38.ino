@@ -1,5 +1,5 @@
 int startValue = 5;
-int ledPin = 7;
+int ledPin = 13;
 
 void flashLED(int times) {
   int flashCount = 0;
